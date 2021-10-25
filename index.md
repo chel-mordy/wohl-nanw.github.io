@@ -6,6 +6,7 @@ blurb
 # [League Structure](structure.md)
 blurb
 # [Transactions](transactions.md)
+blurb
 # [League Rules](rules.md)
 blurb
 # [Discipline](discipline.md)
