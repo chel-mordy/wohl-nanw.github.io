@@ -1,12 +1,12 @@
-## ALL individuals have a responsibility to:
-- All players in the league and discord are expected to respect each other, regardless of skill level or age. Consistently treating individuals fairly and reasonably
-- Being part of the WoHL community requires a level of sportsmanship and Fair-Play and respect
+### ALL individuals have a responsibility to:
+- All players in the league and Discord are expected to respect each other, regardless of skill level or age. Consistently treating individuals fairly and reasonably
+- Being part of the WOHL community requires a level of sportsmanship and fair-play and respect
 - Demonstrating respect to individuals regardless of body type, physical characteristics, e-sport skill level, age, ancestry, colour, race, citizenship, ethnic origin, place of origin, creed, disability, family status, marital status, gender identity, gender expression, sex, and sexual orientation
-- Focusing comments or criticism appropriately and avoiding public criticism of Individuals or the League (report issues to M.O.D or P.A., not publicly)
--League Commissioners and members of the WoHL community must be shown respect at all times. If you have an issue, please take it to the appropriate person privately and in a respectful manner
+- Focusing comments or criticism appropriately and avoiding public criticism of individuals or the League (report issues to Commish, Mod or P.A., not publicly)
+-League Commissioners and members of the WOHL community must be shown respect at all times. If you have an issue, please take it to the appropriate person privately and in a respectful manner
 - All players are to play to their skill level and execute a level of sportsmanship both in and out of games
--Players are to be active and conduct themselves accordingly in both the league and team discords
-## Refrain from any behaviour that constitutes harassment. Types of behaviour that constitute harassment include, but are not limited to:
+- Players are to be active and conduct themselves accordingly in both the league and team discords
+### ALL individuals will refrain from harassment, including but not limited to:
 - Written or verbal abuse, threats, or outbursts
 - The display of visual material which is offensive or which one ought to know is offensive
 - Unwelcome remarks, jokes, comments, innuendo, or taunts
