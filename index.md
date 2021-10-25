@@ -1,3 +1,3 @@
-[structure](structure.md)
-[rules](rules.md)
-[schedule](schedule.md)
+- [structure](structure.md)
+- [rules](rules.md)
+- [schedule](schedule.md)
