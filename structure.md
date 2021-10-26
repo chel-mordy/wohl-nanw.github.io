@@ -32,7 +32,7 @@
 
 ### [Player](#player)
 - It is the players responsibility to follow the [Code of Conduct](code-of-conduct.md) at all times
-- LPs are responsible for communicating their weekly availability in a timely manner; failure to provide any weekly availability before league games will qualify you as an “Inactive Player” and eligible to be released.
+- Players are responsible for communicating their weekly availability in a timely manner; failure to provide any weekly availability before league games will qualify you as an “Inactive Player” and eligible to be released.
 - Players are expected to uphold their availability to the best of their ability. A player who has been scheduled to play (during available times) is expected to be able to play, unless adequate notice (6 hours or more) is given
 - A player must play a minimum of 2 games and maximum of 6 per week.
 - Each player must give management 4 games worth of availability and play 3 of said 4 decided by management.
