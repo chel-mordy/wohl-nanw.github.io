@@ -3,6 +3,8 @@
 A brief introcution into WOHL
 # [Code of Conduct](code-of-conduct.md)
 Please read our Code of Conduct to understand expected behavior
+# [Discord](discord.md)
+Information specific to Discord
 # [League Structure](structure.md)
 A description of the roles and structure
 # [Transactions](transactions.md)
