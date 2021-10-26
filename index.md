@@ -1,3 +1,4 @@
+![WOHL_LOGO2](WOHL_LOGO2.png)
 # [Introduction](intro.md)
 A brief introcution into WOHL
 # [Code of Conduct](code-of-conduct.md)
