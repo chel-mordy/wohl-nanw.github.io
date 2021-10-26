@@ -1,15 +1,14 @@
-Welcome to the Western Only Hockey League (WOHL). Our league games are played on North American North-West (NANW) Servers.
 # [Introduction](intro.md)
-blurb
+A brief introcution into WOHL
 # [Code of Conduct](code-of-conduct.md)
-blurb
+Please read our Code of Conduct to understand expected behavior
 # [League Structure](structure.md)
-blurb
+A description of the roles and structure
 # [Transactions](transactions.md)
-blurb
+How transactions like draft, trades and waiver wire are handled during a season
 # [League Rules](rules.md)
-blurb
+A description of the league rules
 # [Discipline](discipline.md)
-blurb
+A guide to consequences and discipline
 # [Season 4 Schedule](schedule.md)
-blurb
+Season 4 schedule
