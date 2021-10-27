@@ -3,8 +3,16 @@
 - Commissioners are responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - Commissioners will work with the Players Association on many different issues
 
-### [Management(O|GM|AGM)](#management)
-- Owners are responsible for all aspects of the team, including but not limited to schedule, making lines, trades, waiver claims, following protocols/rules etc…
+### [Managementi (O|GM|AGM)](#management)
+- Management are responsible for all aspects of the team, including but not limited to:
+  - setting a positive example for the team
+  - moderating team Discord
+  - schedule
+  - making lines
+  - trades
+  - waiver wire drops and adds
+  - ensuring game day matchups go smoothly
+  - following protocols/rules etc…
 - Management must play each roster player a minimum of 2 games and a maximum of 6. Failure to do so will lead to the following consequences;
 - Strike 1: 1 game suspension + warning
 - Strike 2: 1 week suspension + final warning
