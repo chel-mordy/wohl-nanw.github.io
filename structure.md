@@ -3,7 +3,7 @@
 - Commissioners are responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - Commissioners will work with the Players Association on many different issues
 
-### [Managementi (O|GM|AGM)](#management)
+### [Management (O|GM|AGM)](#management)
 - Management are responsible for all aspects of the team, including but not limited to:
   - setting a positive example for the team
   - moderating team Discord

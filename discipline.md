@@ -1,6 +1,11 @@
-## [Section One](#section-one)
+### [Discord](discord.md)
 blurb
-## [Section Two](#section-two)
+
+### [In Game](in-game.md)
 blurb
-## [Section Three](#section-three)
+
+### [Player](player.md)
+blurb
+
+### [Management and Officials](#management-and-officials.md)
 blurb
