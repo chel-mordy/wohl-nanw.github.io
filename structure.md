@@ -18,7 +18,7 @@
 - Management must play each roster player a minimum of 2 games and a maximum of 6. Failure to do so will lead to the following consequences;
 - Strike 1: 1 game suspension + warning
 - Strike 2: 1 week suspension + final warning
-- Strike 3: Management revoked + review (see under “league player” for their part in this.)
+- Strike 3: Management revoked + review (see [Player](structure.md#player))
 - Team roster management and individual player management
 - Provide schedules for players by day of week specified by league management prior to game time and will not intentionally schedule a player in a league game who has reacted with non-availability
 - Act as team liaisons with league and understand rules, policies and responsibilities
@@ -46,14 +46,14 @@
 - Players are expected to uphold their availability to the best of their ability. A player who has been scheduled to play (during available times) is expected to be able to play, unless adequate notice (6 hours or more) is given
 - A player must play a minimum of 2 games and maximum of 6 per week.
 - Each player must give management 4 games worth of availability and play 3 of said 4 decided by management.
-- Failure to meet these responsibilities allows management to file for inactivity; The player will be dropped and suspended for the remainder of the season. (see [availability](player.md#availability) )
-- Participate and appear on-time, prepared to participate to their best abilities in all competitions, practices, training sessions, tryouts, tournaments, and events. NOTE: If it is verified that a player has been absent from scheduled games, 3 or more times in a single season, they may be put on “Extended Leave” by league management and be ineligible to play. (see [Extended Leave](player.md#extended-leave) )
-- During league sanctioned activity, use only the PSN gamer tag that the individual provided during the registration process (E.g. It is prohibited for a player who has been scheduled to play, to ask another player to sign into their account and play on their behalf). Any change the PSN associated with their account can be made during the off-season (see [PSN Gamer Tag](player.md#psn-gamer-tag) )
+- Failure to meet these responsibilities allows management to file for inactivity; The player will be dropped and suspended for the remainder of the season. (see [Availability](player.md#availability))
+- Participate and appear on-time, prepared to participate to their best abilities in all competitions, practices, training sessions, tryouts, tournaments, and events. NOTE: If it is verified that a player has been absent from scheduled games, 3 or more times in a single season, they may be put on “Extended Leave” by league management and be ineligible to play. (see [Extended Leave](player.md#extended-leave))
+- During league sanctioned activity, use only the PSN gamer tag that the individual provided during the registration process (E.g. It is prohibited for a player who has been scheduled to play, to ask another player to sign into their account and play on their behalf). Any change the PSN associated with their account can be made during the off-season (see [PSN Gamer Tag](player.md#psn-gamer-tag))
 - At a minimum, players are required to play the position(s) listed on their league registration. If a player volunteers to play other positions, they may do so with approval from the team Owner. Only those positions identified during registration are required (players do not have to accommodate requests to play out of their primary positions). NOTE: Flexibility and a team first approach is always preferable.
 - Owners may not deem a player inactive or attempt to remove a player from their roster (other than by a trade) if the player did not agree to play outside of their registered positions and is being scheduled as such
 - All players (except for Owners and GMs) are eligible to be traded during the eligible trade period only.
 - Player trade requests are confidential. A player who requests a trade must not do so publicly (to individuals not associated with their team).  Players trade requests may or may not be accommodated, this is at the discretion of their team Owner
 - If a player requests a trade and no trade is made within two weeks of the formal, documented request, the player can choose to become a free agent. NOTE: If a player becomes toxic or unwilling to play (at discretion of team Owner) they will be considered as “not in good standing” with the League and are no longer eligible to play or be acquired by a team during that season
 - Act in a sportsmanlike manner and not display appearances of violence, foul language, or gestures to other players or any members of the association
-- All players are required to be responsive to Owners requests for info in their team Discord, the league Discord is mandatory (see [Failure to Respond](player.md#failure-to-respond) )
-- Intentionally quitting during league sanctioned games (Rage quitting), intentionally underperforming for any reason (Sandbagging)
+- All players are required to be responsive to Owners requests for info in their team Discord, the league Discord is mandatory (see [Failure to Respond](player.md#failure-to-respond))
+- Intentionally quitting during league sanctioned games (Rage quitting), intentionally underperforming for any reason (Sandbagging) (see [Not Playing Properly](in-game.md#not-playing-properly))
