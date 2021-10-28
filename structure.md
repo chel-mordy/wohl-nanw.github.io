@@ -23,15 +23,15 @@
 - Provide schedules for players by day of week specified by league management prior to game time and will not intentionally schedule a player in a league game who has reacted with non-availability
 - Act as team liaisons with league and understand rules, policies and responsibilities
 - Act to request a resolution (via mod or p/a) to situations that negatively impact the team or negatively affect the reputation of the team.
-- Lead by example and discourage any activity that is a violation of the League’s Code of Conduct or policies
+- Lead by example and discourage any activity that is a violation of the League’s [Code of Conduct](code-of-conduct.md) or policies
 - League game setup and verification, including but not limited to; Establish team lobby, send invites, set passwords, take required photos and communicate team’s readiness to other team leaders.
-- Owners and team management will set a positive example and will encourage their players to represent the team and themselves with respect and good conduct. This may call for team leaders to correct bad conduct and remind players about the Code of Conduct.
-- Owners are responsible for upholding the Code of Conduct at all times and maintain the integrity of the league
+- Owners and team management will set a positive example and will encourage their players to represent the team and themselves with respect and good conduct. This may call for team leaders to correct bad conduct and remind players about the [Code of Conduct](code-of-conduct.md).
+- Owners are responsible for upholding the [Code of Conduct](code-of-conduct.md) at all times and maintain the integrity of the league
 - Owners will be given 3 infractions, not performing/following your responsibilities will result in an infraction, after 3 infractions Owners will be removed of their duties
 - Owners are responsible for entering in lineups in MSO in the appropriate time frame stated in “MSO”
 
 ### [Moderator](#mod)
-- Mod is responsible for upholding and maintaining the Code of Conduct at all times
+- Mod is responsible for upholding and maintaining the [Code of Conduct](code-of-conduct.md) at all times
 - Mod is responsible for assisting the HoD is making decisions regarding suspensions/bans/mutes
 - Mod is responsible for the overlook of the league discord and making sure things are in check
 - - Making sure posts are posted in the correct channel for their intended purposes
