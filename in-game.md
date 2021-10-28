@@ -1,4 +1,6 @@
-## In-Game Discipline
+## In-Game
+
+The following rules pertain to behavior that happens while in a league game, including all-star games.
 
 ### [Illegal Self-pin](#illegal-self-pin)
 - `1st Offense`: 1 game suspension
