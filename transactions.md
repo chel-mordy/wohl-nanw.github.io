@@ -1,3 +1,5 @@
+## Transactions
+
 ### [Draft](#draft)
 - Draft order is randomly choosen by a commissioner broadcast live for all teams to see
 - Draft selections can be trade prior to the execution of the Draft
