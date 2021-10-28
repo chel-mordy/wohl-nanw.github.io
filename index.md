@@ -1,5 +1,6 @@
-# WOHL Structure & Rules
 ![WOHL_LOGO2](WOHL_LOGO2.png)
+
+# WOHL Structure & Rules
 
 ## [Introduction](intro.md)
 A brief introcution into WOHL
