@@ -1,3 +1,5 @@
+## League Structure
+
 ### [Commissioner](#commissioner)
 - Commissioners are responsible for the oversight of league operations including but not limited to, making sure the league is adequately staffed, schedule making, interviews,role creating..etc
 - Commissioners are responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee

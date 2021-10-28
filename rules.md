@@ -1,6 +1,10 @@
-## [Section One](#section-one)
+## Rules
+
+### [Section One](#section-one)
 blurb
-## [Section Two](#section-two)
+
+### [Section Two](#section-two)
 blurb
-## [Section Three](#section-three)
+
+### [Section Three](#section-three)
 blurb

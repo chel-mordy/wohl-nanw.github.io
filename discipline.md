@@ -1,3 +1,5 @@
+## Discipline
+
 ### [Discord](discord.md)
 blurb
 

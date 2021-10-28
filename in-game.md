@@ -1,4 +1,4 @@
-## In Game Discipline
+## In-Game Discipline
 
 ### [Illegal Self-pin](#illegal-self-pin)
 - `1st Offense`: 1 game suspension
