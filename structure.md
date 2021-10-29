@@ -6,6 +6,7 @@
 - Commissioners will work with the Players Association on many different issues
 
 ### [Management (O|GM|AGM)](#management)
+- Management is a league official must align with [WOHL Official Priorities](priorities.md)
 - Management are responsible for all aspects of the team, including but not limited to:
   - setting a positive example for the team
   - moderating team Discord

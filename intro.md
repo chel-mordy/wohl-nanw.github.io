@@ -8,3 +8,6 @@ The WOHL aims to be the premier Western Only Hockey League (WOHL) and our games 
 
 ### [The Point](#point)
 The WOHL is setup to fascilitate matching competetive hockey teams to play against each other on NANW servers. That's it. Everything else we do feeds into that goal.
+
+### [WOHL Priorities](priorities.md)
+Read and understand members expectation to adhere to the priorities.
