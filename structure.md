@@ -15,30 +15,28 @@
   - waiver wire drops and adds
   - ensuring game day matchups go smoothly
   - following protocols/rules etc…
-- Management must play each roster player a minimum of 2 games and a maximum of 6. Failure to do so will lead to the following consequences;
-- Strike 1: 1 game suspension + warning
-- Strike 2: 1 week suspension + final warning
-- Strike 3: Management revoked + review (see [Player](structure.md#player))
-- Team roster management and individual player management
-- Provide schedules for players by day of week specified by league management prior to game time and will not intentionally schedule a player in a league game who has reacted with non-availability
-- Act as team liaisons with league and understand rules, policies and responsibilities
+- Management must play each roster player a minimum of 2 games and a maximum of 6. Failure to do so will lead to discipline (see [Failure to Schedule](management-and-officials.md#failure-to-schedule))
+- Provide schedules for players by day of week specified by league management prior to game time
+- Will not intentionally schedule a player in a league game who has reacted with non-availability (see [Player Abuse](management-and-officials.md#player-abuse))
+- Act as team liaison to the rest of the league
+- Understand and enforce all rules, policies and responsibilities
 - Act to request a resolution (via mod or p/a) to situations that negatively impact the team or negatively affect the reputation of the team.
 - Lead by example and discourage any activity that is a violation of the League’s [Code of Conduct](code-of-conduct.md) or policies
 - League game setup and verification, including but not limited to; Establish team lobby, send invites, set passwords, take required photos and communicate team’s readiness to other team leaders.
 - Owners and team management will set a positive example and will encourage their players to represent the team and themselves with respect and good conduct. This may call for team leaders to correct bad conduct and remind players about the [Code of Conduct](code-of-conduct.md).
 - Owners are responsible for upholding the [Code of Conduct](code-of-conduct.md) at all times and maintain the integrity of the league
-- Owners will be given 3 infractions, not performing/following your responsibilities will result in an infraction, after 3 infractions Owners will be removed of their duties
-- Owners are responsible for entering in lineups in MSO in the appropriate time frame stated in “MSO”
+- Owners not performing/following responsibilities will result in an discipline (see [Dereliction of Duty](management-and-officials.md#dereliction-of-duty))
+- Owners are responsible for entering in lineups in MSO in the appropriate time frame stated in “MSO” (see [Failure to Enter Stats](management-and-officials.md#failure-to-enter-stats))
 
 ### [Moderator](#mod)
-- Mod is responsible for upholding and maintaining the [Code of Conduct](code-of-conduct.md) at all times
-- Mod is responsible for assisting the HoD is making decisions regarding suspensions/bans/mutes
-- Mod is responsible for the overlook of the league discord and making sure things are in check
-- - Making sure posts are posted in the correct channel for their intended purposes
+- upholds and maintains the [Code of Conduct](code-of-conduct.md) at all times
+- assists the Commissioners with making decisions regarding discipline
+- overlooks the league Discord and will quickly defuse toxic behavior and disputes by muting and DMs with the offending members (see [Discord Discipline](discord.md#warning))
+- ensures members  post in the correct channel for their intended purposes #vapor-lounge vs #player-finder, etc
 
 ### [Player Association](#pa)
-- The PA will be involved in many different aspects of the league including major decision making. They will work closely with the Commissioners on dealing with day-to-day issues and long term.
-- The PA will work together on implementing or adjusting rules based on issues that arise
+- The PA will be involved in many different aspects of the league including major decision-making. They will work closely with the Commissioners on dealing with day-to-day issues and long term.
+- The PA will work together on implementing or adjusting rules based on issues that arise during season and off-season
 
 ### [Player](#player)
 - It is the players responsibility to follow the [Code of Conduct](code-of-conduct.md) at all times
