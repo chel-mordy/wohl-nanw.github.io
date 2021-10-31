@@ -1,10 +1,10 @@
 ## Discipline
 
 ### Discord
-- [Racist|Sexist|Ageist|Disability etc Comments](discord.md#prejudiced)
+- [Racist, Sexist, Ageist, Disability, etc Comments](discord.md#prejudiced)
 - [Posting DMs in Public Channels](discord.md#post-dms-in-public)
 - [External Drama](discord.md#external-drama)
-- [Threats (death|family)](discord.md#threats)
+- [Threats (death, family)](discord.md#threats)
 - [Disrespect Towards League Officials)](discord.md#disrespect)
 - [Promoting Another League](discord.md#promoting-another-league)
 - [Raids or Spamming](discord.md#raids-or-spamming)

@@ -14,7 +14,7 @@ A league official may mute a player at any time if their behavior is causing a d
 ### [Non-league Players](#non-league-players)
 Any punishment below that involves suspension or Discipline Committee Review for a non-league player, will automatically result in losing access to channels in Discord, or kicked if appropriate.
 
-### [Racist|Sexist|Ageist|Disability etc Comments](#prejudiced)
+### [Racist, Sexist, Ageist, Disability, etc Comments](#prejudiced)
 - `Warn`: described above
 - `1st Offense`: 1 week chat mute
 - `2nd Offense`: 2 week chat mute + 1 week suspension
@@ -35,7 +35,7 @@ Any punishment below that involves suspension or Discipline Committee Review for
 - `3rd Offense`: Discipline Committee Review
 - `Note`: punishment is double for league officials (Commish, Owner, GM, Mod)
 
-### [Threats (death|family)](#threats)
+### [Threats (death, family)](#threats)
 - `Warn`: described above
 - `1st Offense`: 1 week chat mute
 - `2nd Offense`: 2 week chat mute + 1 week suspension
