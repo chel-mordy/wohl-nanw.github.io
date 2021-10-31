@@ -7,7 +7,7 @@ WOHL is a league driven off a draft and player trades, not a bring-your-own-team
 - Every other player in the league can be traded (and will not be notified ahead of time)
 - Every player starts each season with ONE (1) trade request
 - Once used, a player will not be given another TR in that season
-- When a player invokes a TR, it will be privately in DMs to team Owner and|or GM
+- When a player invokes a TR, it will be privately in DMs to team Owner and/or GM
 - A player has no say where they will traded; attempting to dictate where is tampering
 
 ### [Management Performing Trades](#management-performing-trades)
