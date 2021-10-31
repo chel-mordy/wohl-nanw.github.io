@@ -28,17 +28,20 @@
 - may not deem a player inactive or attempt to remove a player from their roster (other than by a trade) if the player did not agree to play outside of their registered positions and is being scheduled as such
 
 ### [Commissioner](#commissioner)
+- is a league official and must align with [WOHL Official Priorities](priorities.md)
 - are responsible for the oversight of league operations including but not limited to, making sure the league is adequately staffed, schedule making, interviews,role creating..etc
 - are responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - will work with the Players Association on many different issues
 
 ### [Moderator](#mod)
+- is a league official and must align with [WOHL Official Priorities](priorities.md)
 - upholds and maintains the [Code of Conduct](code-of-conduct.md) at all times
 - assists the Commissioners with making decisions regarding discipline
 - overlooks the league Discord and will quickly defuse toxic behavior and disputes by muting and DMs with the offending members (see [Discord Discipline](discord.md#warning))
 - ensures members  post in the correct channel for their intended purposes #vapor-lounge vs #player-finder, etc
 
 ### [Player Association](#pa)
+- is a league official and must align with [WOHL Official Priorities](priorities.md)
 - will be involved in many different aspects of the league including major decision-making. They will work closely with the Commissioners on dealing with day-to-day issues and long term.
 - will work together on implementing or adjusting rules based on issues that arise during season and off-season
 
