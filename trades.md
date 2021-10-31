@@ -12,9 +12,9 @@ WOHL is a league driven off a draft and player trades, not a bring-your-own-team
 
 ### [Management Performing Trades](#management-performing-trades)
 - is NOT required to perform a TR for a player, but should consider for the betterment of their team
-- shall not threaten to trade a player to another team's rival; doing so is [tampering](trade.md#tampering)
-- shall not hide reduced availability that the player has communicated to them; doing so is [dishonest-trade](trade.md#dishonest-trade)
-- shall not encourage a player to invoke a TR, play poorly or do anything in an effort to get traded off of their current team; doing so is [tampering](trade.md#tamperting)
+- shall not threaten to trade a player to another team's rival; doing so is [tampering](trades.md#tampering)
+- shall not hide reduced availability that the player has communicated to them; doing so is [dishonest-trade](trades.md#dishonest-trade)
+- shall not encourage a player to invoke a TR, play poorly or do anything in an effort to get traded off of their current team; doing so is [tampering](trades.md#tamperting)
 
 ### [Executing a Trade](#executing-a-trade)
 - Teams will discuss the details in DMs
@@ -23,7 +23,7 @@ WOHL is a league driven off a draft and player trades, not a bring-your-own-team
 - Commissioners can object to lopsided trade agreements
 - Commissioners that are affected directly be trades won't participate in evaluation
 - Trades that are approved are sent to the Media team for announcement
-- Any players that quit as a result of a trade will face discipline [quitting due to trade](trade.md#quitting-due-to-trade)
+- Any players that quit as a result of a trade will face discipline [quitting due to trade](trades.md#quitting-due-to-trade)
 
 
 ### [Publically Demanding Trade](#publically-demanding-trade)
