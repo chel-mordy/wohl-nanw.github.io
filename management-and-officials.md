@@ -29,8 +29,8 @@
 
 ### [Commissioner](#commissioner)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
-- are responsible for the oversight of league operations including but not limited to, making sure the league is adequately staffed, schedule making, interviews,role creating..etc
-- are responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
+- is responsible for the oversight of league operations including but not limited to, making sure the league is adequately staffed, schedule making, interviews,role creating..etc
+- is responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - will work with the Players Association on many different issues
 
 ### [Moderator](#mod)
