@@ -7,7 +7,7 @@ For the WOHL to succeed, league officials that are entrusted to help run it, mus
 
 ### 2) The Players
 - DO support the players in having an enjoyable, competitive experience
-- DON'T DO anything that harms harmful or toxic towards any number of players
+- DON'T DO anything that is harmful or toxic towards any number of players
 
 ### 3) The Team
 - DO build a cohesive team, and compete for the cup
