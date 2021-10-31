@@ -1,6 +1,6 @@
 ## Trades
 
-### WOHL is a league driven off a draft and player trades, not a bring-your-own-team league. As such _every player_ must understand that they have very little say on to which team they get drafted or traded.
+WOHL is a league driven off a draft and player trades, not a bring-your-own-team league. As such _every player_ must understand that they have very little say on to which team they get drafted or traded.
 
 ### [Trade Request (TR)](#trade-request)
 - Owners nor GMs can be traded
