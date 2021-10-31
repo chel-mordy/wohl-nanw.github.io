@@ -1,9 +1,12 @@
-## Discord Discipline
+# Discord
 
-### [Privilege not Right](#privilege-not-right)
+## [Privilege not Right](#privilege-not-right)
 Discord is the primary way the league and the players communicate with one another. The WOHL is free to play. Communicating within the WOHL Discord is a `privilege` *NOT* a `right`.
 - The WOHL nor its league officials owe anyone the ability to chat in the team Discord
 - Misbehave and expect this ability to be suspended or revoked
+
+## [Discplipline](#discipline)
+The following is the discipline specific to Discord in the WOHL.
 
 ### [Warning](#warning)
 A league official may mute a player at any time if their behavior is causing a distraction to the normal function of the league Discord. Often the discussion will then transfer to DMs between the player and the official. If the official feels like the player understands and has committed to change the behavior, chatting priviledges will be returned. If the player turns combative and confrontational, it may lead to further discipline; see below.

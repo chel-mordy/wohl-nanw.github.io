@@ -18,7 +18,7 @@
 - will not intentionally quitting during league sanctioned games (Rage quitting), intentionally underperforming for any reason (Sandbagging) (see [Not Playing Properly](in-game.md#not-playing-properly))
 
 ## [Discipline](#discipline)
-The following are the discipline specific to a player in the WOHL.
+The following is the discipline specific to a player in the WOHL.
 
 ### [Warning](#warning)
 Team managment may warn a player for not following expected behavior or tasks required to be a member of a team. If the behavior doesn't change, it may be escalated to league officials to enact discipline; see below.
