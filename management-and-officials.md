@@ -45,11 +45,10 @@
 - will be involved in many different aspects of the league including major decision-making. They will work closely with the Commissioners on dealing with day-to-day issues and long term.
 - will work together on implementing or adjusting rules based on issues that arise during season and off-season
 
-
 ## [Discipline](#discipline)
 The follow is the discipline specific to management & officials in the WOHL.
 
-### [Warning]
+### [Warning](#warning)
 Commissioners and Moderators can deliver a warning to an offending official, even if that person is a commissioner or moderator. Any discipline will be determined by someone other than league official involved.
 
 ### [Failure to Schedule](#failure-to-schedule) (mgmt only)
