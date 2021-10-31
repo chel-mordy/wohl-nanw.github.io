@@ -14,6 +14,9 @@ Information specific to Discord
 ## [League Structure](structure.md)
 A description of the roles and structure
 
+## [Trades](trades.md)
+A detailed survey of everything to do with player trades
+
 ## [Transactions](transactions.md)
 How transactions like draft, trades and waiver wire are handled during a season
 
