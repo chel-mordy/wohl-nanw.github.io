@@ -5,6 +5,8 @@ Discord is the primary way the league and the players communicate with one anoth
 - The WOHL nor its league officials owe anyone the ability to chat in the team Discord
 - Misbehave and expect this ability to be suspended or revoked
 
+Note: Discord is the primary communication, but the following discipline extends to PSN chat, text messages, social media, etc.
+
 ## [Discplipline](#discipline)
 The following is the discipline specific to Discord in the WOHL.
 
