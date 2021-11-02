@@ -1,4 +1,4 @@
-`
+```
 Week1:
   Night1 (Sunday November 14, 2021):
     Game1 (7:30pm Pacific):
@@ -839,4 +839,4 @@ total-games-own-conf: 48/72 (66%)
 total-games-other-conf: 24/72 (33%)
 total-games-own-div: 24/72 (33%)
 total-games-other-div: 24/72 (33%)
-`
+```
