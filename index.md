@@ -17,9 +17,6 @@ A description of player role and responsibilities
 ## [Management and Officials](management-and-officials.md)
 A description of management and officials roles and responsibilities
 
-## [Trades](trades.md)
-A detailed survey of everything to do with player trades
-
 ## [Transactions](transactions.md)
 How transactions like draft, trades and waiver wire are handled during a season
 
