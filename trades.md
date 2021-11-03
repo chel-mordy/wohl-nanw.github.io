@@ -25,26 +25,8 @@ WOHL is a league driven off a draft and player trades, not a bring-your-own-team
 - Trades that are approved are sent to the Media team for announcement
 - Any players that quit as a result of a trade will face discipline [quitting due to trade](trades.md#quitting-due-to-trade)
 
-
-## [Discipline](#discipline)
-
-### [Publically Demanding Trade](#publically-demanding-trade)
-- `1st Offense`: 1 week chat mute + lose Trade Request for season
-- `2nd Offense`: 2 week chat mute
-- `3rd Offense`: 1 season ban
-
-### [Tampering](#tampering)
-- `1st Offense`: 1 week suspension + player barred from every joining team (during season)
-- `2nd Offense`: 1 season ban
-- `3rd Offense`: perma-ban
-
-### [Dishonest Trade](#dishonest-trade)
-- `Warn`: team is allowed to adjust the trade to both parties satisfaction
-- `1st Offense`: 1 season ban
-- `2nd Offense`: perma-ban
-
-### [Quitting Due To Trade](#quitting-due-to-trade)
-- `Warn`: player is warned in DMs and allowed to return within 24hrs
-- `1st Offense`: 1 season ban (if at the Trade Deadline, next season too)
-- `2nd Offense`: perma-ban
-
+## [Trade Discipline](#trade-discipline)
+- [Publically Demanding Trade](discipline.md#publically-demanding-trade)
+- [Tampering](discipline.md#tampering)
+- [Dishonest Trade](discipline.md#dishonest-trade)
+- [Quitting Due To Trade](discipline.md#quitting-due-to-trade)

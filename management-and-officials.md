@@ -50,31 +50,10 @@
 - will be involved in many different aspects of the league including major decision-making. They will work closely with the Commissioners on dealing with day-to-day issues and long term.
 - will work together on implementing or adjusting rules based on issues that arise during season and off-season
 
-## [Discipline](#discipline)
+## [Management and Officials Discipline](discipline.md#management-and-officials-discipline)
 The follow is the discipline specific to management & officials in the WOHL.
-
-### [Warning](#warning)
-Commissioners and Moderators can deliver a warning to an offending official, even if that person is a commissioner or moderator. Any discipline will be determined by someone other than league official involved.
-
-### [Failure to Schedule](#failure-to-schedule) (mgmt only)
-Management must play each roster player a minimum of 2 games and a maximum of 6 during a week. Failure will be met with the following discipline:
-- `Warn`: described above
-- `1st Offense`: 1 week suspension
-- `2nd Offense`: removal from role
-
-### [Failure to Enter Stats](#failure-to-enter-stats) (mgmt only)
-- `Warn`: described above
-- `1st Offense`: game in question will result in Forfeit (FF)
-- `2nd Offense`: removal from role
-
-### [Player Abuse](#player-abuse)
-- `Warn`: described above
-- `1st Offense`: 1 week suspension
-- `2nd Offense`: removal from role
-
-### [Dereliction of Duty](#dereliction-of-duty)
-League official (Commissioner, Owner, GM, Mod) not performing duties
-- `Warn`: described above
-- `1st Offense`: 1 week suspension
-- `2nd Offense`: removal from role
-
+- [Management and Officials Warning](discipline.md#management-and-officials-warning)
+- [Failure to Schedule](discipline.md#failure-to-schedule) (mgmt only)
+- [Failure to Enter Stats](discipline.md#failure-to-enter-stats) (mgmt only)
+- [Player Abuse](discipline.md#player-abuse)
+- [Dereliction of Duty](discipline.md#dereliction-of-duty)
