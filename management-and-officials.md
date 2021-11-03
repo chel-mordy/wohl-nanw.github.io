@@ -32,6 +32,7 @@
 - is responsible for the oversight of league operations including but not limited to, making sure the league is adequately staffed, schedule making, interviews,role creating..etc
 - is responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - will work with the Players Association on many different issues
+- like Moderators, will follow the guidelines of discipline and how the league is configured, BUT MAY have to override or adjust these during the season
 
 ### [Moderator](#mod)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
@@ -39,6 +40,7 @@
 - assists the Commissioners with making decisions regarding discipline
 - overlooks the league Discord and will quickly defuse toxic behavior and disputes by muting and DMs with the offending members (see [Discord Discipline](discord.md#warning))
 - ensures members  post in the correct channel for their intended purposes #vapor-lounge vs #player-finder, etc
+- like Commissioners, will follow the guidelines of discipline, BUT MAY have to override these for a good reason
 
 ### [Player Association](#pa)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
