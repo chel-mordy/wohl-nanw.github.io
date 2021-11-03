@@ -26,6 +26,7 @@
 - not performing/following responsibilities will result in an discipline (see [Dereliction of Duty](management-and-officials.md#dereliction-of-duty))
 - are responsible for entering in lineups in MSO in the appropriate time frame stated in “MSO” (see [Failure to Enter Stats](management-and-officials.md#failure-to-enter-stats))
 - may not deem a player inactive or attempt to remove a player from their roster (other than by a trade) if the player did not agree to play outside of their registered positions and is being scheduled as such
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
 
 ### [Commissioner](#commissioner)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
@@ -33,6 +34,7 @@
 - is responsible for creating a “Board” in which decisions about league operations are made to better/make more efficient together as a committee
 - will work with the Players Association on many different issues
 - like Moderators, will follow the guidelines of discipline and how the league is configured, BUT MAY have to override or adjust these during the season
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
 
 ### [Moderator](#mod)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
@@ -41,6 +43,7 @@
 - overlooks the league Discord and will quickly defuse toxic behavior and disputes by muting and DMs with the offending members (see [Discord Discipline](discord.md#warning))
 - ensures members  post in the correct channel for their intended purposes #vapor-lounge vs #player-finder, etc
 - like Commissioners, will follow the guidelines of discipline, BUT MAY have to override these for a good reason
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
 
 ### [Player Association](#pa)
 - is a league official and must align with [WOHL Official Priorities](priorities.md)
