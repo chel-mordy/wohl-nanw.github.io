@@ -26,5 +26,8 @@ A description of the league rules
 ## [Discipline](discipline.md)
 A guide to consequences and discipline
 
+## [Season 4 League](season4-league.md)
+A list of conferences, divisions and teams for WOHL Season 4
+
 ## [Season 4 Schedule](season4-schedule.md)
 Season 4 schedule
