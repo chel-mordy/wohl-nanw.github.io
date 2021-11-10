@@ -10,7 +10,7 @@
 - The first WW will not happen until after late signups are closed after week2 games are played, including any reschedules
 - The starting order of the WW will be based upon the schedule of the teams, worst to best
 - Tie-breaker for teams with the same record will be reverse draft order, before trades
-- As teams make claims, their team will be moved to the bottom of the list, they will only move up the list as other teams are moved behind them
+- As teams make claims, they will be moved to the bottom of the list, they will only move up the list as other teams are moved behind them
 - Each week the teams records will determine the draft order worst to best, except those that have already selected previously (bottom of the list)
 - We will continue to track records for ordering if|until every team has selected a WW at least once
 - Roster space is required to select a player, otherwise no selection is made
