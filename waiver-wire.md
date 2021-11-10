@@ -2,6 +2,7 @@
 
 ## [Description](#description)
 - When a player is released (waived) the player will go back into the pool of eligible players and become eligible for the Waiver Wire
+- A team can waive any number of players to go below 14, but keep in mind 12 are required to meet minimum schedule requirements
 - Waiver Wire will open on Fridays at 8:00 PM PST until 9:00 PM PST (pending any reschedules)
 - Each team will select 1 player (if space permits) through input into the Waiver Wire form
 - Commissioners are not responsible for making sure teams have their players on the list by the time indicated
