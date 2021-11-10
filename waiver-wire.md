@@ -12,6 +12,6 @@
 - Tie-breaker for teams with the same record will be reverse draft order, before trades
 - As teams make claims, they will be moved to the bottom of the list, they will only move up the list as other teams are moved behind them
 - Each week the teams records will determine the draft order worst to best, except those that have already selected previously (bottom of the list)
-- We will continue to track records for ordering if|until every team has selected a WW at least once
+- We will continue to track records for ordering if|/until every team has selected a WW at least once
 - Roster space is required to select a player, otherwise no selection is made
 - Only eligible FA are allowed to be selected, players that join after the late signup deadline are excluded
