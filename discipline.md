@@ -130,7 +130,7 @@ League official (Commissioner, Owner, GM, Mod) not performing duties
 - `3rd Offense`: 1 season ban
 
 ### [Tampering](#tampering)
-- `1st Offense`: 1 week suspension + player barred from every joining team (during season)
+- `1st Offense`: 1 week suspension + player barred from ever joining that particular team (during season)
 - `2nd Offense`: 1 season ban
 - `3rd Offense`: perma-ban
 
