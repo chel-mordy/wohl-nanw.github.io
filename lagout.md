@@ -1,0 +1,3 @@
+## Lagout
+- if a player lags out within the first 10mn of a period the game is to be stopped and restarted, time ragged down to correct time and team that lagged out to take a penalty (player that lagged out takes penalty), if the player lags out anytime after the 10mn mark the game is to finish to end of period and then restarted with same player penalty rules, however if the AI player scores a goal during this time the goal will not count, instead any assist from the AI will count
+- Goalie in the event the goalie lags out the game is to be stopped immediately and restarted with a D to take the penalty, if a goalie lags out twice in a game the game will end, being a FF for the team that lagged.
