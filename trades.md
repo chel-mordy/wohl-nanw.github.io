@@ -25,8 +25,8 @@ WOHL is a league driven off a draft and player trades, not a bring-your-own-team
 - Trades that are approved are sent to the Media team for announcement
 - Any players that quit as a result of a trade will face discipline [quitting due to trade](trades.md#quitting-due-to-trade)
 - Players that quit within two game weeks after being traded or acquired via draft will be subject to discipline
-- The team that lost the player can renegotiate the trade, get another player etc
-- OR the trade is reversed
+- Within two game weeks, the team that lost the player, can renegotiate the trade, get another player, etc
+- OR invoke trade reversal
 
 ## [Trade Discipline](#trade-discipline)
 - [Publically Demanding Trade](discipline.md#publically-demanding-trade)
