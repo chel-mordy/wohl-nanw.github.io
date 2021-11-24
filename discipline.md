@@ -142,7 +142,8 @@ League official (Commissioner, Owner, GM, Mod) not performing duties
 - `3rd Offense`: 3 game suspension + Discipline Committee Review
 - `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
 
-### [Not Playing Properly](#not-playing-properly) raging, trolling etc
+### [Not Playing Properly](#not-playing-properly)
+raging, trolling etc
 - `1st Offense`: 1 game suspension
 - `2nd Offense`: 2 game suspension
 - `3rd Offense`: 3 game suspension + Discipline Committee Review
