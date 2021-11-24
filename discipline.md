@@ -90,7 +90,7 @@ Any player refusing to play for a team or demanding to be traded to specific tea
 - `2nd Offense`: perma-ban
 
 ### [Failure to Respond](#failure-to-respond)
-If management documents attempts to contact player via Discord or PSN chat etc, and the player doesn't respond, they can be marked inactive
+If management documents attempts to contact player via Discord or PSN chat etc, and the player doesn't respond, they can be disciplined
 - `Warn`: described above
 - `1st Offense`: 1 season ban
 - `2nd Offense`: perma-ban
@@ -121,6 +121,32 @@ League official (Commissioner, Owner, GM, Mod) not performing duties
 - `Warn`: described above
 - `1st Offense`: 1 week suspension
 - `2nd Offense`: removal from role
+
+## [In-game Discipline](#in-game-discipline)
+
+### [Illegal Self-pin](#illegal-self-pin)
+- `1st Offense`: 1 game suspension
+- `2nd Offense`: 2 game suspension
+- `3rd Offense`: 3 game suspension + Discipline Committee Review
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
+
+### [Goalie Interference](#goalie-interference)
+- `1st Offense`: 1 game suspension
+- `2nd Offense`: 2 game suspension
+- `3rd Offense`: 3 game suspension + Discipline Committee Review
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
+
+### [Rage Quitting](#rage-quitting)
+- `1st Offense`: 1 game suspension
+- `2nd Offense`: 2 game suspension
+- `3rd Offense`: 3 game suspension + Discipline Committee Review
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
+
+### [Not Playing Properly](#not-playing-properly) raging, trolling etc
+- `1st Offense`: 1 game suspension
+- `2nd Offense`: 2 game suspension
+- `3rd Offense`: 3 game suspension + Discipline Committee Review
+- `Note`: discipline is double for league officials (Commish, Owner, GM, Mod)
 
 ## [Trade Discipline](#trade-discipline)
 
